@@ -1,0 +1,8 @@
+version: "3"
+services:
+  websocket-test-client:
+    build:
+      context: .
+    image: registry.cn-shanghai.aliyuncs.com/ltinyho-web/websocket-test-client:latest
+    ports:
+      - 8081:80
