@@ -10,7 +10,7 @@
   "dependencies": {
     "core-js": "^3.4.4",
     "element-ui": "^2.13.0",
-    "highlight.js": "^9.17.1",
+    "highlight.js": "^10.4.1",
     "json-format": "^1.0.1",
     "json-stringify-pretty-compact": "^2.0.0",
     "moment": "^2.24.0",
